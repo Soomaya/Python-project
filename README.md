@@ -1,3 +1,18 @@
+# 📄 Bulk PDF Automation Tool
+
+**Overview**
+I created this project to open all PDF files in a selected folder with one click. Instead of opening documents manually one by one, the script utilizes Python to automate the process through a simple graphical interface.
+
+**Technology**
+
+* Python
+* os
+* tkinter
+* webbrowser
+
+**Code Example**
+
+```python
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
@@ -31,3 +46,22 @@ open_button = tk.Button(root, text="Open All PDFs", command=open_all_pdfs, bg="#
 open_button.pack()
 
 root.mainloop()
+```
+
+**Steps**
+
+1. Select the folder that contains your PDF files.
+2. The script will scan and open all PDFs automatically.
+3. Each file is opened in the system’s default PDF viewer.
+
+**What I Learned**
+
+* Building simple GUIs with Python’s `tkinter`
+* Automating repetitive file-handling tasks
+* Practical applications of Python in office workflows
+
+...
+
+## Contact
+
+[![Contact Me](https://img.shields.io/badge/📧-Email-blue?style=for-the-badge)](mailto:soumayaelfadili@gmail.com)
