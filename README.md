@@ -2,7 +2,7 @@
 I built a script that automatically sends finance reports by email, replacing the manual process of attaching files and sending them each week.
 
 ## Overview
-This project is a Python script that sends finance reports automatically by email.  
+This project is a Python script that automatically sends financial reports via email.  
 It was created to reduce repetitive manual work and ensure the reports always arrive on time.
 
 ## Features
