@@ -44,5 +44,4 @@ Each project was built to solve real-world problems in finance and business oper
 
 ## License
 
-- This repository is for educational and professional showcase purposes.
-- You can explore and use the code, provided you give proper attribution.
+This repository is for educational and professional showcase purposes. You can explore and use the code, provided you give proper attribution.
