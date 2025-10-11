@@ -41,10 +41,8 @@ Each project was built to solve real-world problems in finance and business oper
 **Folder:** `Financial-KPI-Dashboard`  
 **Tech Stack:** Python, Plotly, Dash, Pandas  
 
----
 
-## Getting Started
+## License
 
-Clone the repository:
-```bash
-git clone https://github.com/Soomaya/python-project.git
+- This repository is for educational and professional showcase purposes.
+- You can explore and use the code, provided you give proper attribution.
